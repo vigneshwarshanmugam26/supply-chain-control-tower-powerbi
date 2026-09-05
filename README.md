@@ -221,7 +221,7 @@ The solution demonstrates how transactional data can be transformed into an inte
 
 ### Executive Overview
 
-![Executive Overview](01-executive-overview.png)
+![Executive Overview]([01-executive-overview.png](https://github.com/vigneshwarshanmugam26/supply-chain-control-tower-powerbi/blob/5da4d0098edea642b2e2d3f07b4c2f9c3eb0e70e/01-executive-overview.png.png))
 
 ### Supply Chain Operations
 
