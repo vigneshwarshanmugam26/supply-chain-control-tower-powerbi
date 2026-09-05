@@ -5,8 +5,10 @@
 An interactive end-to-end analytics solution for monitoring **sales, profitability, customer behavior, shipping performance, delivery efficiency, and operational risks**.
 
 **Built with:** Power BI • Power Query • DAX • Star Schema
-
-# Supply Chain Control Tower Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![DAX](https://img.shields.io/badge/DAX-Business%20Logic-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
+![Star Schema](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-purple)
 
 ## 📊 Project Overview
 
