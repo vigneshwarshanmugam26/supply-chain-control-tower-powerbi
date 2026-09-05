@@ -41,3 +41,18 @@ Key data preparation steps included:
 * Renamed columns for better readability and consistency
 * Prepared separate fact and dimension tables for analytical modeling
 * Validated the transformed data before building the Power BI model
+
+## 🏗️ Data Model
+
+A **star-schema data model** was developed to create a structured and scalable foundation for analysis.
+
+The model consists of a central **Fact Order Lines** table connected to supporting dimension tables:
+
+* **Fact_OrderLines** — Transaction-level order and sales information
+* **Dim_Customer** — Customer attributes and customer analysis
+* **Dim_Product** — Product and product-category information
+* **Dim_Geography** — Geographic information
+* **Dim_Shipping** — Shipping and delivery attributes
+* **Dim_Date** — Date, year, quarter, month, and time-based analysis
+
+This dimensional structure helps maintain clear relationships between transactional data and descriptive attributes while supporting efficient filtering, aggregation, and analytical calculations in Power BI.
