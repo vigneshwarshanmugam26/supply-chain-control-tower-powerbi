@@ -13,3 +13,15 @@ The project transforms raw transactional data into a structured analytical solut
 Supply chain teams need clear visibility into commercial and operational performance to identify trends, monitor key performance indicators, and detect areas requiring attention.
 
 The objective of this project was to build a centralized Supply Chain Control Tower that enables users to analyze sales and profitability, understand customer behavior, monitor shipping and delivery performance, and investigate operational exceptions through interactive Power BI dashboards.
+
+## 💡 Project Objective
+
+The objective of this project was to develop an interactive analytics solution that provides management with a consolidated view of commercial and operational performance while enabling users to identify trends, monitor KPIs, and investigate areas requiring attention.
+
+## 🛠️ Tools & Technologies
+
+* **Power BI** — Dashboard development and data visualization
+* **Power Query** — Data cleaning and transformation
+* **DAX** — Business calculations, KPIs, and analytical logic
+* **Data Modeling** — Star-schema design and relationships
+* **Excel/CSV Data** — Source transactional data
