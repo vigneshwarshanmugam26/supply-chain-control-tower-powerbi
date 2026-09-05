@@ -56,3 +56,32 @@ The model consists of a central **Fact Order Lines** table connected to supporti
 * **Dim_Date** — Date, year, quarter, month, and time-based analysis
 
 This dimensional structure helps maintain clear relationships between transactional data and descriptive attributes while supporting efficient filtering, aggregation, and analytical calculations in Power BI.
+
+## 🧮 DAX & Business Logic
+
+DAX was used to develop business-focused measures for evaluating commercial, customer, and supply chain performance.
+
+### Key DAX Measures
+
+* Total Sales
+* Total Orders
+* Total Customers
+* Total Profit
+* Profit Margin %
+* Average Order Value
+* Average Sales per Customer
+* On-Time Delivery %
+* Late Delivery %
+* Cancellation Rate %
+* Shipping Efficiency %
+* Average Delivery Delay
+* New Customers
+* Repeat Customers
+* New Customer Sales
+* Repeat Customer Sales
+* Sales Growth %
+* Customer Growth %
+
+Advanced DAX logic was used to develop KPI calculations, customer behavior analysis, growth metrics, delivery performance indicators, and time-based analysis.
+
+The measures were designed to respond dynamically to report filters and slicers, allowing users to analyze performance across different periods, customers, products, locations, and operational dimensions.
