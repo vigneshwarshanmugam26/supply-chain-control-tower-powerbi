@@ -211,7 +211,7 @@ The solution demonstrates how transactional data can be transformed into an inte
 
 | File                          | Description                                                                           |
 | ----------------------------- | ------------------------------------------------------------------------------------- |
-| 📊 **Power BI Dashboard**     | [Download the `.pbix` dashboard](./Supply%20Chain%20Control%20Tower%20Dashboard.pbix) |
+| 📊 **Power BI Dashboard**     | [Download the `.pbix` dashboard]([./Supply%20Chain%20Control%20Tower%20Dashboard.pbix](https://github.com/vigneshwarshanmugam26/supply-chain-control-tower-powerbi/blob/main/Supply%20Chain%20Dash%20Board.pbix)) |
 | 🖼️ **Dashboard Screenshots** | Six screenshots showcasing the major dashboard pages                                  |
 | 📄 **Project Documentation**  | Business problem, methodology, KPIs, insights, and business value                     |
 
