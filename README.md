@@ -25,3 +25,19 @@ The objective of this project was to develop an interactive analytics solution t
 * **DAX** — Business calculations, KPIs, and analytical logic
 * **Data Modeling** — Star-schema design and relationships
 * **Excel/CSV Data** — Source transactional data
+
+## 🧹 Data Preparation
+
+The raw transactional data was prepared and transformed using Power Query before being used for analysis.
+
+Key data preparation steps included:
+
+* Cleaned and transformed the raw dataset
+* Handled missing and inconsistent values
+* Corrected data types across columns
+* Standardized country and state names
+* Created mapping tables to normalize inconsistent geographical values
+* Removed unnecessary columns
+* Renamed columns for better readability and consistency
+* Prepared separate fact and dimension tables for analytical modeling
+* Validated the transformed data before building the Power BI model
