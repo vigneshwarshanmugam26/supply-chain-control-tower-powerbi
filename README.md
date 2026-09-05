@@ -109,6 +109,34 @@ The dashboard uses business-focused KPIs to monitor commercial performance, cust
 
 ### Supply Chain Performance
 
+## 📈 Dashboard Pages
+
+The dashboard is organized into six analytical pages, each focused on a specific area of supply chain performance.
+
+### 1. Executive Overview
+
+Provides a consolidated view of key commercial and operational KPIs, enabling users to quickly assess overall business performance.
+
+### 2. Supply Chain Operations
+
+Focuses on shipping, delivery, and operational performance to help identify delays, inefficiencies, and areas requiring attention.
+
+### 3. Geographic Intelligence
+
+Provides geographic analysis of business and supply chain performance across different locations.
+
+### 4. Customer & Sales Analytics
+
+Analyzes customer behavior, sales performance, new versus repeat customers, and customer contribution to revenue.
+
+### 5. Product Performance
+
+Evaluates product-level sales, quantity, profitability, and performance patterns to identify important product trends.
+
+### 6. Risk & Exceptions
+
+Highlights operational exceptions and performance risks such as late deliveries, cancellations, and other areas requiring management attention.
+
 * On-Time Delivery %
 * Late Delivery %
 * Late Shipments
