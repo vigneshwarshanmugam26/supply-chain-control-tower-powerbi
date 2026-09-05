@@ -217,6 +217,15 @@ The solution demonstrates how transactional data can be transformed into an inte
 
 > **Note:** The `.pbix` file can be downloaded and opened using Microsoft Power BI Desktop.
 
+## 🚀 How to Explore the Dashboard
+
+1. Download the Power BI `.pbix` file from the **Project Files** section.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Explore the six dashboard pages using the page navigation.
+4. Use slicers and interactive visuals to analyze different time periods, customers, products, locations, and operational metrics.
+5. Hover over visuals and data points to explore detailed insights.
+
+
 ## 🖥️ Dashboard Preview
 
 ### Executive Overview
