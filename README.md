@@ -27,6 +27,33 @@ The objective of this project was to build a centralized Supply Chain Control To
 
 The objective of this project was to develop an interactive analytics solution that provides management with a consolidated view of commercial and operational performance while enabling users to identify trends, monitor KPIs, and investigate areas requiring attention.
 
+## ⭐ Project Highlights
+
+* **180K+ transactional records** analyzed
+* **20K+ customers** and **65K+ orders** analyzed
+* Built a **star-schema data model** with fact and dimension tables
+* Developed **advanced DAX measures** for commercial, customer, and operational KPIs
+* Created **6 interactive Power BI dashboard pages**
+* Implemented **Power Query transformations** and geographical data standardization
+* Analyzed **sales, profitability, customer behavior, shipping, delivery, and operational risks**
+* Designed the solution as an **end-to-end Supply Chain Control Tower**
+
+## 📊 Project Snapshot
+
+| Category             | Details                                                               |
+| -------------------- | --------------------------------------------------------------------- |
+| **Project Type**     | Supply Chain Analytics                                                |
+| **Dataset Size**     | 180K+ transactional records                                           |
+| **Customers**        | 20K+                                                                  |
+| **Orders**           | 65K+                                                                  |
+| **Dashboard Pages**  | 6                                                                     |
+| **Data Model**       | Star Schema                                                           |
+| **BI Tool**          | Power BI                                                              |
+| **Data Preparation** | Power Query                                                           |
+| **Analytics & KPIs** | DAX                                                                   |
+| **Analysis Areas**   | Sales • Customers • Products • Geography • Shipping • Delivery • Risk |
+
+
 ## 🛠️ Tools & Technologies
 
 * **Power BI** — Dashboard development and data visualization
@@ -182,13 +209,13 @@ The solution demonstrates how transactional data can be transformed into an inte
 
 ## 📁 Project Files
 
-The repository contains the resources used to present and document the Supply Chain Control Tower project.
+| File                          | Description                                                                           |
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| 📊 **Power BI Dashboard**     | [Download the `.pbix` dashboard](./Supply%20Chain%20Control%20Tower%20Dashboard.pbix) |
+| 🖼️ **Dashboard Screenshots** | Six screenshots showcasing the major dashboard pages                                  |
+| 📄 **Project Documentation**  | Business problem, methodology, KPIs, insights, and business value                     |
 
-* **Power BI Dashboard** — Interactive `.pbix` report
-* **Dashboard Screenshots** — Selected views of the completed dashboard
-* **Project Documentation** — Business problem, methodology, KPIs, and insights
-
-> The repository is intended to provide a clear overview of the project while keeping the analytical workflow and supporting resources organized.
+> **Note:** The `.pbix` file can be downloaded and opened using Microsoft Power BI Desktop.
 
 ## 🖥️ Dashboard Preview
 
