@@ -220,25 +220,19 @@ The solution demonstrates how transactional data can be transformed into an inte
 ## 🖥️ Dashboard Preview
 
 ### Executive Overview
-
-![Executive Overview]([01-executive-overview.png](https://github.com/vigneshwarshanmugam26/supply-chain-control-tower-powerbi/blob/5da4d0098edea642b2e2d3f07b4c2f9c3eb0e70e/01-executive-overview.png.png))
+![Executive Overview](01-executive-overview.png.png)
 
 ### Supply Chain Operations
-
-![Supply Chain Operations](02-supply-chain-operations.png)
+![Supply Chain Operations](02-supply-chain-operations.png.png)
 
 ### Geographic Intelligence
-
-![Geographic Intelligence](03-geographic-intelligence.png)
+![Geographic Intelligence](03-geographic-intelligence.png.png)
 
 ### Customer & Sales Analytics
-
-![Customer & Sales Analytics](04-customer-sales-analytics.png)
+![Customer & Sales Analytics](04-customer-sales-analytics.png.png)
 
 ### Product Performance
-
-![Product Performance](05-product-performance.png)
+![Product Performance](05-product-performance.png.png)
 
 ### Risk & Exceptions
-
-![Risk & Exceptions](06-risk-exceptions.png)
+![Risk & Exceptions](06-risk-exceptions.png.png)
