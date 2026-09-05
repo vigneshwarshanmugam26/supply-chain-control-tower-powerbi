@@ -180,3 +180,29 @@ The repository contains the resources used to present and document the Supply Ch
 * **Project Documentation** — Business problem, methodology, KPIs, and insights
 
 > The repository is intended to provide a clear overview of the project while keeping the analytical workflow and supporting resources organized.
+
+## 🖥️ Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](01-executive-overview.png)
+
+### Supply Chain Operations
+
+![Supply Chain Operations](02-supply-chain-operations.png)
+
+### Geographic Intelligence
+
+![Geographic Intelligence](03-geographic-intelligence.png)
+
+### Customer & Sales Analytics
+
+![Customer & Sales Analytics](04-customer-sales-analytics.png)
+
+### Product Performance
+
+![Product Performance](05-product-performance.png)
+
+### Risk & Exceptions
+
+![Risk & Exceptions](06-risk-exceptions.png)
