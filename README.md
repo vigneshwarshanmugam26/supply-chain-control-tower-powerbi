@@ -143,3 +143,31 @@ Highlights operational exceptions and performance risks such as late deliveries,
 * Average Delivery Delay
 * Shipping Efficiency %
 * Cancellation Rate %
+
+## 💡 Key Business Insights
+
+The dashboard enables analysis of the following business areas:
+
+* **Sales Performance** — Monitor sales trends and identify periods of stronger or weaker performance.
+* **Customer Behavior** — Compare new and repeat customers and understand their contribution to sales.
+* **Delivery Performance** — Evaluate on-time and late delivery patterns to identify service-level issues.
+* **Shipping Efficiency** — Compare scheduled and actual shipping performance to identify delivery delays.
+* **Product Performance** — Analyze product-level sales, quantity, and profitability to identify performance differences.
+* **Geographic Performance** — Compare performance across locations and identify areas requiring further investigation.
+* **Operational Risks** — Monitor cancellations, late shipments, and other exceptions that may affect supply chain performance.
+
+> **Note:** Specific numerical insights and observations will be added after validating the final dashboard results.
+
+## 🎯 Business Value
+
+The Supply Chain Control Tower provides a centralized view of commercial and operational performance, helping decision-makers:
+
+* Monitor sales and profitability trends
+* Track customer acquisition and retention patterns
+* Evaluate delivery and shipping performance
+* Identify operational delays and exceptions
+* Analyze product and geographic performance
+* Focus attention on areas requiring further investigation
+
+The solution demonstrates how transactional data can be transformed into an interactive business intelligence solution that supports data-driven decision-making.
+
