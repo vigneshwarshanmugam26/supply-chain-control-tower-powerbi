@@ -85,3 +85,33 @@ DAX was used to develop business-focused measures for evaluating commercial, cus
 Advanced DAX logic was used to develop KPI calculations, customer behavior analysis, growth metrics, delivery performance indicators, and time-based analysis.
 
 The measures were designed to respond dynamically to report filters and slicers, allowing users to analyze performance across different periods, customers, products, locations, and operational dimensions.
+
+## 📊 Key KPIs
+
+The dashboard uses business-focused KPIs to monitor commercial performance, customer behavior, and supply chain operations.
+
+### Commercial Performance
+
+* Total Sales
+* Total Orders
+* Total Profit
+* Profit Margin %
+* Average Order Value
+
+### Customer Performance
+
+* Total Customers
+* New Customers
+* Repeat Customers
+* New Customer Sales
+* Repeat Customer Sales
+* Average Sales per Customer
+
+### Supply Chain Performance
+
+* On-Time Delivery %
+* Late Delivery %
+* Late Shipments
+* Average Delivery Delay
+* Shipping Efficiency %
+* Cancellation Rate %
