@@ -1,5 +1,11 @@
-# supply-chain-control-tower-powerbi
-Advanced Power BI dashboard for supply chain performance, sales, customer, shipping, and delivery analytics.
+# 🚚 Supply Chain Control Tower Dashboard
+
+### Advanced Power BI Analytics Solution
+
+An interactive end-to-end analytics solution for monitoring **sales, profitability, customer behavior, shipping performance, delivery efficiency, and operational risks**.
+
+**Built with:** Power BI • Power Query • DAX • Star Schema
+
 # Supply Chain Control Tower Dashboard
 
 ## 📊 Project Overview
