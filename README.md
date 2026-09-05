@@ -171,3 +171,12 @@ The Supply Chain Control Tower provides a centralized view of commercial and ope
 
 The solution demonstrates how transactional data can be transformed into an interactive business intelligence solution that supports data-driven decision-making.
 
+## 📁 Project Files
+
+The repository contains the resources used to present and document the Supply Chain Control Tower project.
+
+* **Power BI Dashboard** — Interactive `.pbix` report
+* **Dashboard Screenshots** — Selected views of the completed dashboard
+* **Project Documentation** — Business problem, methodology, KPIs, and insights
+
+> The repository is intended to provide a clear overview of the project while keeping the analytical workflow and supporting resources organized.
